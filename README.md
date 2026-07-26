@@ -22,10 +22,6 @@
 
 O objetivo foi simular o tipo de funcionalidade cobrada em testes técnicos de front-end júnior/pleno — não só estilizar uma interface, mas fazer diferentes partes da aplicação reagirem de forma consistente às mudanças de estado.
 
-## Preview
-
-![Preview do dashboard de finanças Grana](<img width="1691" height="883" alt="image" src="https://github.com/user-attachments/assets/7be24a59-184f-4a34-819c-9643cbd5b887" />
-)
 
 ## Funcionalidades
 
