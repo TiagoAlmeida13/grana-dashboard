@@ -69,11 +69,13 @@ export default function CategoryChart({
               ))}
             </Pie>
             <Tooltip
-              formatter={(value: number) =>
-                value.toLocaleString("pt-BR", {
-                  style: "currency",
-                  currency: "BRL",
-                })
+              formatter={(value) =>
+                typeof value === "number"
+                  ? value.toLocaleString("pt-BR", {
+                      style: "currency",
+                      currency: "BRL",
+                    })
+                  : value
               }
             />
             <Legend />
