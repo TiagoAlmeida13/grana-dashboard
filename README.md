@@ -22,6 +22,9 @@
 
 O objetivo foi simular o tipo de funcionalidade cobrada em testes técnicos de front-end júnior/pleno — não só estilizar uma interface, mas fazer diferentes partes da aplicação reagirem de forma consistente às mudanças de estado.
 
+## Preview
+
+![Preview do dashboard de finanças Grana](https://api.microlink.io/?url=https://grana-dashboard.vercel.app&screenshot=true&meta=false&embed=screenshot.url&viewport.width=1280&viewport.height=900)
 
 ## Funcionalidades
 
